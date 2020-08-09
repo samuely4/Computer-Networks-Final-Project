@@ -1,0 +1,85 @@
+
+
+node_G,node_F,160.20,0,node_G --> node_F,node_G,node_F <-> node_G
+
+node_C,node_B,161.15,1,node_C --> node_B,node_C,node_B <-> node_C
+
+node_C,node_D,161.21,3,node_C --> node_D,node_C,node_C <-> node_D
+
+node_D,node_A,161.17,2,node_D --> node_A,node_D,node_D <-> node_E,node_E,node_E <-> node_A
+
+node_B,node_E,161.54,4,node_B --> node_E,node_B,node_B <-> node_C,node_C,node_C <-> node_D,node_D,node_D <-> node_E
+
+node_E,node_D,161.95,6,node_E --> node_D,node_E,node_D <-> node_E
+
+node_D,node_B,161.90,5,node_D --> node_B,node_D,node_D <-> node_E,node_E,node_E <-> node_A,node_A,node_A <-> node_B
+
+node_B,node_D,162.14,7,node_B --> node_D,node_B,node_B <-> node_C,node_C,node_C <-> node_D
+
+node_F,node_E,162.63,8,node_F --> node_E,node_F,node_F <-> node_C,node_C,node_C <-> node_D,node_D,node_D <-> node_E
+
+node_B,node_A,162.75,9,node_B --> node_A,node_B,node_A <-> node_B
+
+node_F,node_B,162.97,10,node_F --> node_B,node_F,node_F <-> node_G,node_G,node_G <-> node_A,node_A,node_A <-> node_B
+
+node_E,node_C,162.99,11,node_E --> node_C,node_E,node_E <-> node_A,node_A,node_A <-> node_B,node_B,node_B <-> node_C
+
+node_C,node_E,163.45,12,node_C --> node_E,node_C,node_C <-> node_D,node_D,node_D <-> node_E
+
+node_E,node_G,163.84,13,node_E --> node_G,node_E,node_E <-> node_A,node_A,node_G <-> node_A
+
+node_E,node_B,163.95,14,node_E --> node_B,node_E,node_E <-> node_A,node_A,node_A <-> node_B
+
+node_G,node_D,164.17,15,node_G --> node_D,node_G,node_F <-> node_G,node_F,node_F <-> node_C,node_C,node_C <-> node_D
+
+node_F,node_A,164.56,16,node_F --> node_A,node_F,node_F <-> node_G,node_G,node_G <-> node_A
+
+node_D,node_E,165.00,17,node_D --> node_E,node_D,node_D <-> node_E
+
+node_F,node_G,165.37,18,node_F --> node_G,node_F,node_F <-> node_G
+
+node_D,node_G,165.37,19,node_D --> node_G,node_D,node_C <-> node_D,node_C,node_F <-> node_C,node_F,node_F <-> node_G
+
+node_A,node_E,165.60,20,node_A --> node_E,node_A,node_E <-> node_A
+
+node_E,node_A,165.97,21,node_E --> node_A,node_E,node_E <-> node_A
+
+node_A,node_F,166.31,22,node_A --> node_F,node_A,node_G <-> node_A,node_G,node_F <-> node_G
+
+node_B,node_F,166.60,23,node_B --> node_F,node_B,node_B <-> node_C,node_C,node_F <-> node_C
+
+node_C,node_A,166.94,24,node_C --> node_A,node_C,node_B <-> node_C,node_B,node_A <-> node_B
+
+node_B,node_G,167.14,25,node_B --> node_G,node_B,node_B <-> node_C,node_C,node_F <-> node_C,node_F,node_F <-> node_G
+
+node_G,node_A,167.23,26,node_G --> node_A,node_G,node_G <-> node_A
+
+node_A,node_C,167.32,27,node_A --> node_C,node_A,node_A <-> node_B,node_B,node_B <-> node_C
+
+node_F,node_C,167.42,28,node_F --> node_C,node_F,node_F <-> node_C
+
+node_C,node_F,167.47,30,node_C --> node_F,node_C,node_F <-> node_C
+
+node_G,node_E,167.44,29,node_G --> node_E,node_G,node_G <-> node_A,node_A,node_E <-> node_A
+
+node_A,node_G,167.88,31,node_A --> node_G,node_A,node_G <-> node_A
+
+node_A,node_D,167.91,32,node_A --> node_D,node_A,node_E <-> node_A,node_E,node_D <-> node_E
+
+node_A,node_B,168.37,33,node_A --> node_B,node_A,node_A <-> node_B
+
+node_B,node_C,168.50,34,node_B --> node_C,node_B,node_B <-> node_C
+
+node_D,node_C,168.80,35,node_D --> node_C,node_D,node_C <-> node_D
+
+node_C,node_G,168.89,36,node_C --> node_G,node_C,node_F <-> node_C,node_F,node_F <-> node_G
+
+node_G,node_B,168.99,37,node_G --> node_B,node_G,node_G <-> node_A,node_A,node_A <-> node_B
+
+node_F,node_D,169.57,38,node_F --> node_D,node_F,node_F <-> node_C,node_C,node_C <-> node_D
+
+node_D,node_F,169.86,39,node_D --> node_F,node_D,node_C <-> node_D,node_C,node_F <-> node_C
+
+node_E,node_F,169.94,40,node_E --> node_F,node_E,node_D <-> node_E,node_D,node_C <-> node_D,node_C,node_F <-> node_C
+
+node_G,node_C,169.97,41,node_G --> node_C,node_G,node_G <-> node_A,node_A,node_A <-> node_B,node_B,node_B <-> node_C
