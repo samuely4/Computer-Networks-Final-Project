@@ -5,7 +5,7 @@
 
 ## Abstract
 
-In this project, we needed to construct a network with 7 nodes. We simulated and
+In this project, we constructed a network with 7 nodes. We simulated and
 analyzed how data travels from node to node and gathered different statistics both at the “object
 level” as well as at the “global level”. Finally, we provided step by step procedure of using the
 OPNET software to simulate a 7-node network system. We used two different protocols to
