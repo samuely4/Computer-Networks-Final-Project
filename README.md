@@ -15,6 +15,6 @@ values using OSPF.
 
 ![picture alt](https://raw.githubusercontent.com/samuely4/Computer-Networks-Final-Project/master/Project%20Pics/7-node%20network%20design.PNG)
 
-The report can be found at (https://github.com/samuely4/Computer-Networks-Final-Project/blob/master/Project%20Report.pdf)
+* The report can be found at (https://github.com/samuely4/Computer-Networks-Final-Project/blob/master/Project%20Report.pdf)
 
 Samuel Youssef
